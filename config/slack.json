@@ -1,5 +1,5 @@
 {
-	"webhookURL": "https://hooks.slack.com/services/xxxxxxxxx/xxxxxxxxx/xxxxxxxxxxxxxxxxxxxxxxxx",
+	"webhookURL": "https://hooks.slack.com/services/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",
 	"config": {
 		"defaults": "2fa Bot",
 		"channel": "#2fa",
